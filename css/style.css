@@ -129,3 +129,18 @@ button{
 button:hover{
     cursor:pointer; 
 }
+
+table{
+    width:80%;
+    height: 300px;
+    justify-content: center;
+    align-items: center;
+}
+
+th{
+    border:1px,solid,black;
+}
+
+td{
+    border:1px,solid,black
+}
